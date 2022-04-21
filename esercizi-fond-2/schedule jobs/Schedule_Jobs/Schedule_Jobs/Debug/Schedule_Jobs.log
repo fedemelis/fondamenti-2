@@ -1,0 +1,5 @@
+﻿  jobs.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\schedule jobs\Schedule_Jobs\Schedule_Jobs\jobs.c(45,9): warning C4033: 'ScheduleJobs' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\schedule jobs\Schedule_Jobs\Schedule_Jobs\jobs.c(61,26): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\schedule jobs\Schedule_Jobs\Schedule_Jobs\jobs.c(67): warning C4715: 'ScheduleJobs': non tutti i percorsi di controllo restituiscono un valore
+  Schedule_Jobs.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\schedule jobs\Schedule_Jobs\Debug\Schedule_Jobs.exe

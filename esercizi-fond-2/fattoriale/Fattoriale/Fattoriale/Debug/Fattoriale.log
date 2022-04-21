@@ -1,0 +1,10 @@
+﻿  fattoriale.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\fattoriale\Fattoriale\Fattoriale\fattoriale.c(5,3): warning C4033: 'FattorialeRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\fattoriale\Fattoriale\Fattoriale\fattoriale.c(8,40): warning C4244: '=': conversione da 'unsigned __int64' a 'int'. Possibile perdita di dati.
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\fattoriale\Fattoriale\Fattoriale\fattoriale.c(9,12): warning C4047: 'return': 'unsigned __int64' differisce da 'int *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\fattoriale\Fattoriale\Fattoriale\fattoriale.c(16,3): warning C4033: 'Fattoriale' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\fattoriale\Fattoriale\Fattoriale\fattoriale.c(26,28): warning C4013: 'atoll' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\fattoriale\Fattoriale\Fattoriale\fattoriale.c(26,1): warning C4244: 'inizializzazione': conversione da 'unsigned __int64' a 'int'. Possibile perdita di dati.
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\fattoriale\Fattoriale\Fattoriale\fattoriale.c(10): warning C4715: 'FattorialeRec': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\fattoriale\Fattoriale\Fattoriale\fattoriale.c(22): warning C4715: 'Fattoriale': non tutti i percorsi di controllo restituiscono un valore
+  Fattoriale.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\fattoriale\Fattoriale\Debug\Fattoriale.exe

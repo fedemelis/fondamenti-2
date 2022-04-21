@@ -1,0 +1,4 @@
+﻿  max.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\massimo\Massimo\Massimo\max.c(19,13): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\massimo\Massimo\Massimo\max.c(23,6): warning C4013: 'free' non definita. Verrà considerata come esterna che restituisce un int.
+  Massimo.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\massimo\Massimo\Debug\Massimo.exe

@@ -1,0 +1,7 @@
+﻿  steps.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\steps\Steps\Steps\steps.c(10,24): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\steps\Steps\Steps\steps.c(22,3): warning C4033: 'StepsRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\steps\Steps\Steps\steps.c(28,3): warning C4033: 'StepsRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\steps\Steps\Steps\steps.c(50,13): warning C4047: 'return': 'int' differisce da 'int *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\steps\Steps\Steps\steps.c(52): warning C4715: 'StepsRec': non tutti i percorsi di controllo restituiscono un valore
+  Steps.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\steps\Steps\Debug\Steps.exe

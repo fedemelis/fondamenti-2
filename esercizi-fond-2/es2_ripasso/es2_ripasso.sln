@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "es2_ripasso", "es2_ripasso\es2_ripasso.vcxproj", "{501BE436-B02E-4B30-9AD2-7DC916567444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501BE436-B02E-4B30-9AD2-7DC916567444}.Debug|x64.ActiveCfg = Debug|x64
+		{501BE436-B02E-4B30-9AD2-7DC916567444}.Debug|x64.Build.0 = Debug|x64
+		{501BE436-B02E-4B30-9AD2-7DC916567444}.Debug|x86.ActiveCfg = Debug|Win32
+		{501BE436-B02E-4B30-9AD2-7DC916567444}.Debug|x86.Build.0 = Debug|Win32
+		{501BE436-B02E-4B30-9AD2-7DC916567444}.Release|x64.ActiveCfg = Release|x64
+		{501BE436-B02E-4B30-9AD2-7DC916567444}.Release|x64.Build.0 = Release|x64
+		{501BE436-B02E-4B30-9AD2-7DC916567444}.Release|x86.ActiveCfg = Release|Win32
+		{501BE436-B02E-4B30-9AD2-7DC916567444}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CE19F41-D902-4F8F-9875-A8B6CC0FC033}
+	EndGlobalSection
+EndGlobal

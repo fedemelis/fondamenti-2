@@ -1,0 +1,7 @@
+﻿  isheap.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\isHeap\IsHeap\IsHeap\isheap.c(7,110): warning C4018: '<=': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\isHeap\IsHeap\IsHeap\isheap.c(7,142): warning C4018: '<=': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\isHeap\IsHeap\IsHeap\isheap.c(7,173): warning C4018: '<=': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\isHeap\IsHeap\IsHeap\isheap.c(12,17): warning C4018: '<=': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\isHeap\IsHeap\IsHeap\isheap.c(22): warning C4715: 'IsHeapRec': non tutti i percorsi di controllo restituiscono un valore
+  IsHeap.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\isHeap\IsHeap\Debug\IsHeap.exe

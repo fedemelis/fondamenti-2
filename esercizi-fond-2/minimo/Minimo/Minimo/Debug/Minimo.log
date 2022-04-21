@@ -1,0 +1,7 @@
+﻿  minimo.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\minimo\Minimo\Minimo\minimo.c(16,11): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\minimo\Minimo\Minimo\minimo.c(33,3): warning C4033: 'Minimo' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\minimo\Minimo\Minimo\minimo.c(27): warning C4715: 'MinimoRec': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\minimo\Minimo\Minimo\minimo.c(37): warning C4716: 'Minimo': deve restituire un valore
+minimo.obj : error LNK2005: _Minimo già definito in main.obj
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\minimo\Minimo\Debug\Minimo.exe : fatal error LNK1169: rilevato uno o più simboli definiti più volte

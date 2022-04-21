@@ -1,0 +1,4 @@
+﻿  subset_equal.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\subsets\Subsets\Subsets\subset_equal.c(16,24): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\subsets\Subsets\Subsets\subset_equal.c(23,34): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Subsets.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\subsets\Subsets\Debug\Subsets.exe

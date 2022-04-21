@@ -1,0 +1,5 @@
+﻿  bucketsort.c
+  main.c
+  Generazione del codice in corso...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno _main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\bucket sort\Bucket Sort\Debug\Bucket Sort.exe : fatal error LNK1120: 1 esterni non risolti

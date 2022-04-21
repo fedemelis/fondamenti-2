@@ -1,0 +1,4 @@
+﻿  check_sum_n.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\check sum n\Check_Sum_N\Check_Sum_N\check_sum_n.c(45,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\check sum n\Check_Sum_N\Check_Sum_N\check_sum_n.c(47,24): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Check_Sum_N.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\check sum n\Check_Sum_N\Debug\Check_Sum_N.exe

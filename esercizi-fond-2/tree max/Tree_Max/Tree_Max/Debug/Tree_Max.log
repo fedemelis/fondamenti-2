@@ -1,0 +1,7 @@
+﻿  treemax.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\tree Max\Tree_Max\Tree_Max\treemax.c(15,21): warning C4133: '=': tipi non compatibili. Da 'Node *' a 'ElemType *'
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\tree Max\Tree_Max\Tree_Max\treemax.c(6,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\tree Max\Tree_Max\Tree_Max\treemax.c(31,25): warning C4047: 'return': 'const ElemType *' differisce da 'ElemType' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\tree Max\Tree_Max\Tree_Max\treemax.c(53,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\tree Max\Tree_Max\Tree_Max\treemax.c(55): warning C4715: 'TreeMax': non tutti i percorsi di controllo restituiscono un valore
+  Tree_Max.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\tree Max\Tree_Max\Debug\Tree_Max.exe

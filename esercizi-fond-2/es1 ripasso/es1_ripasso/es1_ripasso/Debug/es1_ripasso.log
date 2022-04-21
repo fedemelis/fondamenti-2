@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\es1 ripasso\es1_ripasso\es1_ripasso\main.c(7,1): warning C4047: 'inizializzazione': 'char' differisce da 'char *' nei livelli di riferimento indiretto
+  es1_ripasso.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\es1 ripasso\es1_ripasso\Debug\es1_ripasso.exe

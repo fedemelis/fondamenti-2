@@ -1,0 +1,4 @@
+﻿  dominant.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\dominant\dominant\dominant\dominant.c(8,3): warning C4033: 'CountDominantRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\dominant\dominant\dominant\dominant.c(40): warning C4716: 'CountDominantRec': deve restituire un valore
+  dominant.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\dominant\dominant\Debug\dominant.exe

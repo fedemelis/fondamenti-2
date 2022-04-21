@@ -1,0 +1,7 @@
+﻿  sum.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\sum\Sum\Sum\sum.c(42,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\sum\Sum\Sum\sum.c(44,9): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\sum\Sum\Sum\sum.c(44,24): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\sum\Sum\Sum\sum.c(59,14): warning C4018: '>=': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\sum\Sum\Sum\sum.c(74,14): warning C4018: '>=': errata corrispondenza tra signed e unsigned
+  Sum.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\sum\Sum\Debug\Sum.exe

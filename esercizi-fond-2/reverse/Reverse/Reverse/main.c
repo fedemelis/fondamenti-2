@@ -1,0 +1,16 @@
+#include "reverse.h"
+
+int main(void) {
+
+    //lista 1
+    ElemType e1[] = { 1, 2, 3, 4, 5 };
+    size_t e1_size = sizeof(e1) / sizeof(ElemType);
+
+    Item* list_a = ListCreateEmpty();
+    for (size_t i = 0; i < e1_size; ++i) {
+        list_a = ListInsertBack(list_a, e1 + i);
+    }
+
+    Item *i = Reverse(list_a);
+
+}

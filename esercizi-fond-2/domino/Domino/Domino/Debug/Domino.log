@@ -1,0 +1,9 @@
+﻿  domino.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\domino\Domino\Domino\domino.c(11,3): warning C4033: 'DominoRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\domino\Domino\Domino\domino.c(16,3): warning C4033: 'DominoRec' deve restituire un valore
+  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\domino\Domino\Domino\main.c(7,23): warning C4047: 'funzione': 'size_t *' differisce da 'size_t **' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\domino\Domino\Domino\main.c(7,15): warning C4024: 'Domino': tipi diversi tra il parametro 3 formale e quello effettivo
+  Generazione del codice in corso...
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\domino\Domino\Domino\domino.c(49): warning C4715: 'DominoRec': non tutti i percorsi di controllo restituiscono un valore
+  Domino.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\domino\Domino\Debug\Domino.exe

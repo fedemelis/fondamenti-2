@@ -1,0 +1,11 @@
+﻿  main.c
+  mirror.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\mirror\Mirror\Mirror\mirror.c(9,3): warning C4033: 'TreeIsMirrorRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\mirror\Mirror\Mirror\mirror.c(14,3): warning C4033: 'TreeIsMirrorRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\mirror\Mirror\Mirror\mirror.c(19,3): warning C4033: 'TreeIsMirrorRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\mirror\Mirror\Mirror\mirror.c(25,3): warning C4033: 'TreeIsMirrorRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\mirror\Mirror\Mirror\mirror.c(31,3): warning C4033: 'TreeIsMirrorRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\mirror\Mirror\Mirror\mirror.c(42,3): warning C4033: 'TreeIsMirrorRec' deve restituire un valore
+  Generazione del codice in corso...
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\mirror\Mirror\Mirror\mirror.c(45): warning C4716: 'TreeIsMirrorRec': deve restituire un valore
+  Mirror.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\mirror\Mirror\Debug\Mirror.exe

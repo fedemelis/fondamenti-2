@@ -1,0 +1,10 @@
+﻿  read.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\read Tree\Read\Read\read.c(11,33): warning C4047: 'funzione': 'const ElemType *' differisce da 'char' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\read Tree\Read\Read\read.c(11,24): warning C4024: 'TreeCreateRoot': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\read Tree\Read\Read\read.c(17,15): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\read Tree\Read\Read\read.c(19,15): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\read Tree\Read\Read\read.c(23,15): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\read Tree\Read\Read\read.c(25,15): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\read Tree\Read\Read\read.c(42,1): warning C4047: 'inizializzazione': 'char' differisce da 'char [1]' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\read Tree\Read\Read\read.c(68): warning C4715: 'TreeRead': non tutti i percorsi di controllo restituiscono un valore
+  Read.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\read Tree\Read\Debug\Read.exe

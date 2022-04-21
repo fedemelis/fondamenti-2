@@ -1,0 +1,7 @@
+﻿  elemtype.c
+  list.c
+  elementi_pari.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\elementi pari\Elementi_Pari\Elementi_Pari\elementi_pari.c(14,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  main.c
+  Generazione del codice in corso...
+  Elementi_Pari.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\elementi pari\Elementi_Pari\Debug\Elementi_Pari.exe

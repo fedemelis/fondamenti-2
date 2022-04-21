@@ -1,0 +1,8 @@
+﻿  elemtype.c
+  minheap.c
+  heapify.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\heapify\Heapify\Heapify\heapify.c(11,8): warning C4013: 'memcpy' non definita. Verrà considerata come esterna che restituisce un int.
+  main.c
+  Generazione del codice in corso...
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\heapify\Heapify\Heapify\heapify.c(14): warning C4716: 'HeapMinHeapify': deve restituire un valore
+  Heapify.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\heapify\Heapify\Debug\Heapify.exe

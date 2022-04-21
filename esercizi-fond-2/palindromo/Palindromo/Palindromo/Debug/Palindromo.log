@@ -1,0 +1,5 @@
+﻿  palindromo.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\palindromo\Palindromo\Palindromo\palindromo.c(7,3): warning C4033: 'IsPalindromoRec' deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\palindromo\Palindromo\Palindromo\palindromo.c(33): warning C4716: 'IsPalindromo': deve restituire un valore
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\palindromo\Palindromo\Palindromo\palindromo.c(18): warning C4715: 'IsPalindromoRec': non tutti i percorsi di controllo restituiscono un valore
+  Palindromo.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\palindromo\Palindromo\Debug\Palindromo.exe

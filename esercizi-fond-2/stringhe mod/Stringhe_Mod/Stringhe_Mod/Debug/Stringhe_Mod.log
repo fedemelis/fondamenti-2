@@ -1,0 +1,5 @@
+﻿  stringhe_mod.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\stringhe mod\Stringhe_Mod\Stringhe_Mod\stringhe_mod.c(9,24): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\stringhe mod\Stringhe_Mod\Stringhe_Mod\stringhe_mod.c(17,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\stringhe mod\Stringhe_Mod\Stringhe_Mod\stringhe_mod.c(28,14): warning C4098: 'BacktrackStrMod': la funzione 'void' restituisce un valore
+  Stringhe_Mod.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\stringhe mod\Stringhe_Mod\Debug\Stringhe_Mod.exe

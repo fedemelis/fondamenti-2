@@ -1,0 +1,9 @@
+﻿  elemtype.c
+  minheap.c
+  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\pop V2\Pop\Pop\main.c(6,21): warning C4013: 'malloc' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\pop V2\Pop\Pop\main.c(6,43): warning C4047: '=': 'ElemType *' differisce da 'int' nei livelli di riferimento indiretto
+  pop.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\pop V2\Pop\Pop\pop.c(16,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Generazione del codice in corso...
+  Pop.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 2\esercizi\pop V2\Pop\Debug\Pop.exe
